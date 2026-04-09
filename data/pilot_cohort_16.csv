@@ -1,0 +1,10 @@
+mirna_id,sequence,cohort,pilot_role,source
+hsa-miR-124-3p,UAAGGCACGCGGUGAAUGCCAA,dementia,pilot-anchor,miRBase MIMAT0000422
+hsa-miR-29a-3p,UAGCACCAUCUGAAAUCGGUUA,dementia,pilot-cohort,miRBase MIMAT0000086
+hsa-miR-29c-3p,UAGCACCAUUUGAAAUCGGUUA,dementia,pilot-cohort,miRBase MIMAT0000681
+hsa-miR-92a-3p,UAUUGCACUUGUCCCGGCCUGU,dementia,pilot-cohort,miRBase MIMAT0000092
+hsa-miR-486-5p,UCCUGUACUGAGCUGCCCCGAG,dementia,pilot-cohort,miRBase MIMAT0002177
+hsa-let-7i-5p,UGAGGUAGUAGUUUGUGCUGUU,dementia,pilot-cohort,miRBase MIMAT0000415
+hsa-miR-15a-5p,UAGCAGCACAUAAUGGUUUGUG,dementia,pilot-cohort,miRBase MIMAT0000068
+hsa-miR-16-5p,UAGCAGCACGUAAAUAUUGGCG,control,preliminary-control,miRBase MIMAT0000069
+hsa-let-7a-5p,UGAGGUAGUAGGUUGUAUAGUU,control,preliminary-control,miRBase MIMAT0000062
