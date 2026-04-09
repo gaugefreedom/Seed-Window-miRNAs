@@ -29,3 +29,5 @@ python3 -m unittest test_2_regressions.py test_3_foundations.py
 ```bash
 python3 Sliding_Window_Algebraic_Profiler.py --help
 ```
+## Archived software release used for the manuscript:
+- Zenodo DOI: https://doi.org/10.5281/zenodo.19489106
